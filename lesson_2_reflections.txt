@@ -1,0 +1,5 @@
+Q1) What happens when you initialize a repository? Why do you need to do it?
+Answer: Initializing a repository allows git to store the metadata of the files and allows it to store the history of the files. Creating a repository makes us to maintain the history of files and revert back to a previous version if necessary.
+
+Q2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+Answer: Staging area is a seperate interface which allows users to choose files and add them to the repository. It gives better control on number of files the user want to add and do commits accordingly.
