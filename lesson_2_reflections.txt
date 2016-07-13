@@ -3,3 +3,6 @@ Answer: Initializing a repository allows git to store the metadata of the files 
 
 Q2) How is the staging area different from the working directory and the repository? What value do you think it offers?
 Answer: Staging area is a seperate interface which allows users to choose files and add them to the repository. It gives better control on number of files the user want to add and do commits accordingly.
+
+Q3) How can you use the staging area to make sure you have one commit per logical change
+Answer: Staging area allows us to excersice control on the addition of changes we made to files there by allowing the user to have one commit per logical change 
