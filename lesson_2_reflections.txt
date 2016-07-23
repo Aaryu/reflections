@@ -6,3 +6,15 @@ Answer: Staging area is a seperate interface which allows users to choose files 
 
 Q3) How can you use the staging area to make sure you have one commit per logical change
 Answer: Staging area allows us to excersice control on the addition of changes we made to files there by allowing the user to have one commit per logical change 
+
+Q4) what are some situations when branches would be helpful in keeping your history organized? how would branches help?
+Answer: Branches would be helpful to experiment/work on feature you are not sure about. braches are helpful to collabrate with yourself. We can also create multiple feature/code fix branches and parllely work on multiple things.
+
+Q5) How do diagrams help us visualize the branch structure?
+Answer: It is easy to make out the commit history w.r.t a branch and will be able to naviagte to the respective easily 
+
+Q6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Answer: Merging two branches gets the new features/changes on each branch along with the commit history. This allows the code to combine and work together. Representing in a diagram allows us to visualize and understand things better
+
+Q7) What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Answer: Automatic merging may merge not based on logical commits where as on maual merges we can merge based on logical commits and based on better decision making.
