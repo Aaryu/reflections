@@ -1,1 +1,2 @@
-Question 1) 
+Question 1) When would you want to use a remote repository rather than keeping all your work local?
+Answer: Remote repository is needed when we want various persons to work, share, and collaborate to one project.
